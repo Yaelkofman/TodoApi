@@ -1,0 +1,149 @@
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\TodoApi.exe
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\TodoApi.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\appsettings.Development.json
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\appsettings.json
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Humanizer.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.dll
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\refint\TodoApi.dll
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.pdb
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\TodoApi.deps.json
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\TodoApi.pdb
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#\finall_project\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#\finall_project\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TodoApi\bin\Debug\net6.0\appsettings.Development.json
+C:\TodoApi\bin\Debug\net6.0\appsettings.json
+C:\TodoApi\bin\Debug\net6.0\TodoApi.exe
+C:\TodoApi\bin\Debug\net6.0\TodoApi.deps.json
+C:\TodoApi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+C:\TodoApi\bin\Debug\net6.0\TodoApi.dll
+C:\TodoApi\bin\Debug\net6.0\TodoApi.pdb
+C:\TodoApi\bin\Debug\net6.0\Humanizer.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TodoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\TodoApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\TodoApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TodoApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\TodoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\TodoApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\TodoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\TodoApi\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+C:\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+C:\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+C:\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TodoApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\TodoApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\TodoApi\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+C:\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+C:\TodoApi\obj\Debug\net6.0\TodoApi.dll
+C:\TodoApi\obj\Debug\net6.0\refint\TodoApi.dll
+C:\TodoApi\obj\Debug\net6.0\TodoApi.pdb
+C:\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
+C:\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
+C:\TodoApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\appsettings.Development.json
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\appsettings.json
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\TodoApi.exe
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\TodoApi.deps.json
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\TodoApi.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\TodoApi.pdb
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Humanizer.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\פרויקט C#\TodoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.csproj.AssemblyReference.cache
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfoInputs.cache
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.AssemblyInfo.cs
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\scopedcss\bundle\TodoApi.styles.css
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.csproj.CopyComplete
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.dll
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\refint\TodoApi.dll
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.pdb
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
+C:\פרויקט C#\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
